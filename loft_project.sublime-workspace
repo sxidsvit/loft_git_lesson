@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"td",
+				"td:n	text-decoration:none"
+			],
+			[
+				"bs",
+				"bxsh	box-shadow"
+			],
+			[
+				"d",
+				"d:i	display:inline"
+			],
+			[
+				"di",
+				"d:ib	display:inline-block"
+			],
+			[
+				"ta",
+				"ta:c	text-align:center"
+			],
+			[
+				"tt",
+				"tt:u	text-transform:uppercase"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"bg",
+				"bgr	background-repeat"
+			],
+			[
+				"w",
+				"w	width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"P",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"t",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"pos-a",
+				"pos-a	position: absolute;"
+			],
+			[
+				"e",
+				"relative"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"ma-w",
+				"max-width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"cl",
+				"click"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1114,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "$blue: #3bbfce;\n$margin: 16px;",
+			"file": "scss/_settings.scss",
+			"file_size": 0,
+			"file_write_time": 130939676300000000,
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"last_filter": "gulp",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: gulp",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: gist",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: l",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"gulp",
+			"git remote",
+			"GitSavvy help",
+			"GitSavvy: help",
+			"gulp",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/loft_poject",
+		"/D/loft_poject/css",
+		"/D/loft_poject/scss",
+		"/D/ovk_stroy/ready_html/app"
+	],
+	"file_history":
+	[
+		"/D/ovk_stroy/ready_html/app/index.html",
+		"/D/loft_poject/app/index.html",
+		"/D/loft_poject/css/common.css",
+		"/D/loft_poject/app/bundle.min.css",
+		"/D/loft_poject/sublime-gulp.log",
+		"/D/loft_poject/package.json",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Gulp.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Gulp/Default (Windows).sublime-keymap",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Gulp/Gulp.sublime-settings",
+		"/D/loft_poject/css/fonts.css",
+		"/D/loft_poject/gulpfile.js",
+		"/D/ovk_stroy/ready_html/package.json",
+		"/D/ovk_stroy/ready_html/app/_header.min.css",
+		"/D/ovk_stroy/ready_html/gulpfile.js",
+		"/D/ovk_stroy/ready_html/ovkstroy.sublime-workspace",
+		"/D/ovk_stroy/ready_html/sass/header.sass",
+		"/c/users/tor/appdata/local/temp/mobile-menu.html",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/bz2/dependency-metadata.json",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Git/Git.sublime-settings",
+		"/c/users/tor/appdata/local/temp/WordPress query_posts",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Gist/Default (Windows).sublime-keymap",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Gist.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/c/users/tor/appdata/local/temp/Учебный гист",
+		"/D/ovk_stroy/ready_html/sass/_fonts.sass",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Gist/Gist.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/JSON.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Plain text.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Ruby Haml.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Distraction Free.sublime-settings",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/D/ovk_stroy/ready_html/sass/_vars.sass",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/D/ovk_stroy/ready_html/sass/_media.sass",
+		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/ovk_stroy/ready_html/.gitignore",
+		"/D/ovk_stroy/ready_html/sass/main.sass",
+		"/D/ovk_stroy/ready_html/app/libs/font-awesome/css/font-awesome.sass",
+		"/D/node.js lessons/package.json",
+		"/D/ovk_stroy/_optimized_gulp_sass/package.json",
+		"/D/ovk_stroy/_optimized_gulp_sass/gulpfile.js",
+		"/L/Современный вебдизайн/WebDesign master/А.Климанов - Создание сайта под ключ на заказ/Описание и ссылки - Создание сайта под ключ на заказ.txt",
+		"/D/ovk_stroy/ready_html/.git/HEAD",
+		"/D/ovk_stroy/ready_html/.git/refs/heads/master",
+		"/D/ovk_stroy/test-clone/app/index.html",
+		"/D/ovk_stroy/ready_html/README.md",
+		"/D/ovk_stroy/ready_html/bower.json",
+		"/D/ovk_stroy/ready_html/.bowerrc",
+		"/L/Современный вебдизайн/WebDesign master/А.Климанов - Создание сайта под ключ на заказ/_lesson_ovk/ready_html/sass/header.sass",
+		"/L/Современный вебдизайн/WebDesign master/А.Климанов - Создание сайта под ключ на заказ/_lesson_ovk/ready_html/sass/_vars.sass",
+		"/L/Современный вебдизайн/WebDesign master/А.Климанов - Создание сайта под ключ на заказ/_lesson_ovk/ready_html/.sublime-gulp.cache",
+		"/L/Avocode & Н.Красник/Курс Расширенная технология верстки адаптивной веб-страницы/Архив с результатами первых 4-х уроков/lesson02/index.html",
+		"/L/Avocode & Н.Красник/Курс Расширенная технология верстки адаптивной веб-страницы/Архив с результатами первых 4-х уроков/lesson01/index.html",
+		"/L/Современный вебдизайн/WebDesign master/Layers/layers-style-kit-demo-master/layers-style-kit-demo-master/css.txt",
+		"/L/Современный вебдизайн/WebDesign master/Layers/layers-style-kit-demo-master/layers-style-kit-demo-master/home-page-preset.json",
+		"/C/Users/TOR/Desktop/wtw2.webflow/index.html",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-12_23-49-59/index.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-12_21-46-22/index.php",
+		"/C/Users/TOR/Desktop/my_mailphp/mail3.php",
+		"/C/Users/TOR/Desktop/my_mailphp/mail.js",
+		"/C/Users/TOR/Desktop/my_mailphp/mail2.php",
+		"/C/Users/TOR/Desktop/WTW2/Дополнительные материалы/mailphp/mail.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-10_01-22-32/news.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-09_21-43-50/news.php",
+		"/C/Users/TOR/Desktop/wtw2.webflow/news.html",
+		"/C/Users/TOR/Desktop/my_mailphp/mail.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-09_04-56-11/contacts.php",
+		"/C/Users/TOR/Desktop/mail.js",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-09_01-00-25/contacts.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-09_01-00-25/index.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-09_01-00-25/news.php",
+		"/C/Users/TOR/Desktop/mail.php",
+		"/C/Users/TOR/Desktop/WTW2/Дополнительные материалы/wtw2-mail.php",
+		"/C/Users/TOR/Desktop/www.multacom.com.html",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-08_02-00-41/index.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-08_02-00-41/contacts.php",
+		"/D/Мои проекты/my_dj5/js/common.js",
+		"/C/Users/TOR/Desktop/WTW2/Конвертация/wtw2.webflow 16-10-15/js/webflow.js",
+		"/C/Users/TOR/Desktop/mail/mail.js",
+		"/C/Users/TOR/Desktop/wtw2.webflow/contacts.html",
+		"/C/Users/TOR/Desktop/wtw2-mail.php",
+		"/C/Users/TOR/Desktop/WTW2/my_mail.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-07_02-04-10/contacts.php",
+		"/C/Users/TOR/Desktop/mail_Klimanov.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-06_22-04-20/contacts.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-06_22-04-20/index.php",
+		"/L/Webflow/А.Вьюков —Webflow Master/бонусы/lightbox.html",
+		"/C/Users/TOR/AppData/Local/Temp/fz3temp-1/mail.php",
+		"/L/Webflow/А.Вьюков —Webflow Master/бонусы/lightbox.txt",
+		"/C/Users/TOR/Desktop/owl.carousel.2.0.0-beta.3/owl.carousel.2.0.0-beta.3/assets/owl.carousel.css",
+		"/C/Users/TOR/Desktop/owl.carousel.2.0.0-beta.3/owl.carousel.2.0.0-beta.3/assets/owl.theme.green.css",
+		"/C/Users/TOR/Desktop/owl.carousel.2.0.0-beta.3/owl.carousel.2.0.0-beta.3/assets/main.sass",
+		"/C/Users/TOR/Desktop/owl.carousel.2.0.0-beta.3/owl.carousel.2.0.0-beta.3/owl.carousel.js",
+		"/C/Users/TOR/Desktop/owl.carousel.2.0.0-beta.3/owl.carousel.2.0.0-beta.3/README.md",
+		"/C/Users/TOR/Desktop/Фриланс/FL. Верстка и натяжка на вордпресс/Фигура-1.svg",
+		"/C/Users/TOR/Desktop/Фриланс/FL. Верстка и натяжка на вордпресс/Фигура-2.svg",
+		"/C/Users/TOR/Desktop/Фриланс/FL. Верстка и натяжка на вордпресс/Фигура для inkscape.svg",
+		"/C/Users/TOR/Desktop/wtw2.webflow/css/webflow.css",
+		"/C/Users/TOR/Desktop/functions.php",
+		"/C/Users/TOR/Desktop/index.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-03_01-07-43/single.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-02_01-24-00/single.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-02_01-24-00/index.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-10-31_23-58-50/index.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-01_23-45-15/single.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-10-31_23-58-50/single.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-11-01_23-45-15/index.php",
+		"/C/Users/TOR/Desktop/s.p.antonyuk@gmail.com_2015-10-31_22-55-01/single.php",
+		"/C/Users/TOR/Desktop/wtw2.webflow/single.html",
+		"/C/Users/TOR/Desktop/single.html",
+		"/D/Мои проекты/my_dj5/mail.php",
+		"/D/Мои проекты/_dj5/_ready_html/app/index.html",
+		"/C/Users/TOR/Desktop/optimized_contents/css/animate.css",
+		"/D/Мои проекты/_dj5/_ready_html/app/mail.php",
+		"/D/_dj5/_ready_html/app/index.html",
+		"/D/_dj5/_ready_html/app/js/common.js",
+		"/D/_dj5/_ready_html/app/mail.php",
+		"/D/Мои проекты/my_dj5/index.html",
+		"/D/Мои проекты/my_dj5/sass/main.sass",
+		"/D/Мои проекты/my_dj5/sass/_media.sass",
+		"/D/_dj5/_ready_html/sass/main.sass",
+		"/D/_dj5/_ready_html/sass/_media.sass",
+		"/D/_optimized_gulp_sass/app/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"webkit",
+			"minifyCss = require('gulp-minify-css'),",
+			"10%",
+			".header-content",
+			"$blu",
+			"header",
+			"															\n",
+			"			\n",
+			"enabled",
+			"sass",
+			"+p",
+			"mt",
+			"@import \"app/libs/animate/animate.sass\"",
+			"	\n",
+			"\n	",
+			"Объекты",
+			"wp_tem",
+			"wp_query",
+			"wp_querry",
+			"object",
+			"CFS()",
+			"footer2-contact-text _1",
+			"440",
+			"Quick ",
+			"novos",
+			"неправильный пароль",
+			"pagination",
+			"Читать дальше",
+			"brea",
+			"<form",
+			"form",
+			"action ",
+			"action",
+			"form ",
+			"form",
+			"mail.php",
+			"mail",
+			"submit",
+			"w-form",
+			"form",
+			"Email Form",
+			"wp_template",
+			"tem",
+			"query",
+			"nav",
+			"owl-controls",
+			"controls",
+			"contr",
+			"json",
+			"w-json",
+			"src=",
+			"object_lbox",
+			"w-lightbox",
+			"w-lightbox ",
+			"w-lightbox",
+			"object_lbox",
+			"lbox",
+			"clear",
+			"sec3-image-box",
+			"object_photo",
+			"object-photo",
+			"object-photo\"",
+			"object_photo",
+			"object-photo",
+			"object_photo",
+			"cf_bg_",
+			"sec3-image-box",
+			"object_photo",
+			"post-image",
+			"single",
+			"singl",
+			"main.min.css",
+			"buttons",
+			"homesec",
+			"background-image: url(",
+			"img/",
+			"background-image",
+			"Формирование отчетности",
+			".triangles-container",
+			"cards",
+			"section-pb",
+			"card-icon",
+			"section_4",
+			"section_3",
+			"bah_1",
+			"bah_2",
+			"homesect",
+			"Профессиональная",
+			"info-item",
+			"red",
+			"background-image",
+			"gulp",
+			"cf_text",
+			"stron",
+			"section-head",
+			"homesect",
+			"section_1",
+			"buttons",
+			"button ",
+			"button",
+			"Заказать оценку",
+			"заказать оценку",
+			"buttons",
+			"section-bottom",
+			"sectio-bottom",
+			"sec1-div1",
+			"w-slide ",
+			"w-slide",
+			"sec1-slider",
+			"slide-gradient",
+			"gradient",
+			"$main-color",
+			"$headrs-color",
+			".css",
+			"ms.href=\"_header.min.css\";document.getElementsByTagName(\"head\")[0].appendChild(ms);",
+			"media",
+			"temp",
+			"bg_im",
+			"main_slider",
+			"brand_immain_slider",
+			"brand_img",
+			"s2-item",
+			"153",
+			"section_1",
+			"Armata Financical Group",
+			"M&A",
+			"/img/",
+			"../img/"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"xs_sm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\loft_poject"
+		},
+		{
+			"path": "D:\\ovk_stroy\\ready_html"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scss/_settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 202.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
