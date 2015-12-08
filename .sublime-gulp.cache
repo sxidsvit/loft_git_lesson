@@ -1,1 +1,0 @@
-{"D:\\loft_poject\\gulpfile.js":{"sha1":"f003ecb304f5e91f85c3f15121999e3b5f7b50f0","tasks":{"connect":{"name":"connect","dependencies":""},"css":{"name":"css","dependencies":""},"html":{"name":"html","dependencies":""},"watch":{"name":"watch","dependencies":""},"default":{"name":"default","dependencies":"connect html css watch"}}}}

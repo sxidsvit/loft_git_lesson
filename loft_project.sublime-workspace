@@ -116,38 +116,19 @@
 	"buffers":
 	[
 		{
+			"file": "/D/14_lesson_ovk/ready_k_html/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "gulpfile.js",
 			"settings":
 			{
-				"buffer_size": 1114,
+				"buffer_size": 1447,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "scss/style.scss",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "$blue: #3bbfce;\n$margin: 16px;",
-			"file": "scss/_settings.scss",
-			"file_size": 0,
-			"file_write_time": 130939676300000000,
-			"settings":
-			{
-				"buffer_size": 30,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 349,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -164,7 +145,7 @@
 		[
 			[
 				"gulp",
-				"Gulp: Kill running tasks"
+				"Gulp"
 			],
 			[
 				"Package Control: ",
@@ -225,29 +206,34 @@
 	},
 	"expanded_folders":
 	[
-		"/D/loft_poject",
-		"/D/loft_poject/css",
-		"/D/loft_poject/scss",
-		"/D/ovk_stroy/ready_html/app"
+		"/D/14_lesson_ovk/ready_k_html"
 	],
 	"file_history":
 	[
+		"/D/14_lesson_ovk/ready_k_html/gulpfile.js",
+		"/D/ovk_stroy/ready_html/gulpfile.js",
 		"/D/ovk_stroy/ready_html/app/index.html",
-		"/D/loft_poject/app/index.html",
-		"/D/loft_poject/css/common.css",
-		"/D/loft_poject/app/bundle.min.css",
-		"/D/loft_poject/sublime-gulp.log",
+		"/D/14_lesson_ovk/ready_k_html/app/index.html",
+		"/D/_lesson_ovk/ready_k_html/app/index.html",
+		"/D/loft_poject/gulpfile.js",
+		"/D/loft_poject/README.md",
 		"/D/loft_poject/package.json",
+		"/D/loft_poject/scss/style.scss",
+		"/D/loft_poject/.gitignore",
+		"/D/loft_poject/app/bundle.min.css",
+		"/D/loft_poject/css/common.css",
+		"/D/loft_poject/scss/includes/_settings.scss",
+		"/D/loft_poject/app/css/common.css",
+		"/D/loft_poject/app/index.html",
+		"/D/loft_poject/sublime-gulp.log",
 		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
 		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Default/Preferences.sublime-settings",
 		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/User/Gulp.sublime-settings",
 		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Gulp/Default (Windows).sublime-keymap",
 		"/M/ID.2014-15/Sublime Text Build 3083 x64/Data/Packages/Gulp/Gulp.sublime-settings",
 		"/D/loft_poject/css/fonts.css",
-		"/D/loft_poject/gulpfile.js",
 		"/D/ovk_stroy/ready_html/package.json",
 		"/D/ovk_stroy/ready_html/app/_header.min.css",
-		"/D/ovk_stroy/ready_html/gulpfile.js",
 		"/D/ovk_stroy/ready_html/ovkstroy.sublime-workspace",
 		"/D/ovk_stroy/ready_html/sass/header.sass",
 		"/c/users/tor/appdata/local/temp/mobile-menu.html",
@@ -351,15 +337,7 @@
 		"/D/Мои проекты/_dj5/_ready_html/app/index.html",
 		"/C/Users/TOR/Desktop/optimized_contents/css/animate.css",
 		"/D/Мои проекты/_dj5/_ready_html/app/mail.php",
-		"/D/_dj5/_ready_html/app/index.html",
-		"/D/_dj5/_ready_html/app/js/common.js",
-		"/D/_dj5/_ready_html/app/mail.php",
-		"/D/Мои проекты/my_dj5/index.html",
-		"/D/Мои проекты/my_dj5/sass/main.sass",
-		"/D/Мои проекты/my_dj5/sass/_media.sass",
-		"/D/_dj5/_ready_html/sass/main.sass",
-		"/D/_dj5/_ready_html/sass/_media.sass",
-		"/D/_optimized_gulp_sass/app/index.html"
+		"/D/_dj5/_ready_html/app/index.html"
 	],
 	"find":
 	{
@@ -524,136 +502,86 @@
 	"folders":
 	[
 		{
-			"path": "D:\\loft_poject"
+			"path": "D:\\14_lesson_ovk\\ready_k_html"
 		},
 		{
 			"path": "D:\\ovk_stroy\\ready_html"
+		},
+		{
+			"path": "D:\\loft_poject"
 		}
 	],
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "gulpfile.js",
-					"semi_transient": false,
+					"file": "/D/14_lesson_ovk/ready_k_html/gulpfile.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1114,
+						"buffer_size": 1323,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								625,
-								625
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": -0.0,
-						"translation.y": 300.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "scss/style.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								611,
+								611
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "scss/_settings.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 30,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30,
-								30
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
-					"buffer": 3,
-					"file": "package.json",
-					"semi_transient": false,
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 349,
+						"buffer_size": 1447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								42,
+								42
 							]
 						],
 						"settings":
 						{
-							"auto_complete": true,
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": -0.0,
+						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -676,6 +604,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -686,6 +620,7 @@
 		"rows":
 		[
 			0.0,
+			0.5,
 			1.0
 		]
 	},
@@ -740,7 +675,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -748,7 +683,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 302.0,
+	"side_bar_width": 205.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
