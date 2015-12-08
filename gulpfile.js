@@ -57,41 +57,44 @@ gulp.task('watch', function() {
 // default
 gulp.task('default', ['connect', 'html', 'css', 'watch']);
 
-// попытки подключиться к серверу по ftp (sftp) не увенчались успехом
+// deploy - передаем файлы по ftp на сервер с помощью vinyl-ftp
+// ftp = require('vinyl-ftp')  gutil = require('gulp-util')
 
-// ftp  - не работает. Не могу подключиться к серверу
-gulp.task('ftp', function () {
-	return gulp.src('app/**.*')
-		.pipe(ftp({
-			host: 'add.lekua.in.ua/loftblog/',
-			user: 'lekua_ftp',
-			pass: 'Aa3XEV7F',
-			remotePath: '/home/lekua/'
-		}))
-		.pipe(gutil.noop());
-});
-
-// deploy - передаем файлы по ftp на сервер
 gulp.task( 'deploy', function () {
  
 	var conn = ftp.create( {
-		host:     'lekua.in.ua',
+		host:     'lekua.ftp.ukraine.com.ua',
 		user:     'lekua_ftp',
 		password: 'Aa3XEV7F',  // Aa3XEV7F
-		parallel: 10,
-		log:      gutil.log
-	} );
+		parallel: 3,
+		log: gutil.log
+	});
  
 	var globs = [
-		'css/**',
-		'index.html'
+		'app/css/**',
+		'app/**'
 	];
  
 	// using base = '.' will transfer everything to /public_html correctly 
 	// turn off buffering in gulp.src for best performance 
  
 	return gulp.src( globs, { base: '.', buffer: false } )
-		.pipe( conn.newer( '/home/lekua/' ) ) // only upload newer files /public_html
-		.pipe( conn.dest( '/home/lekua/' ) );
+		.pipe( conn.newer( '/lekua.in.ua/ad/loftblog/' ) ) // only upload newer files /public_html or /home/lekua/
+		.pipe( conn.dest( '/lekua.in.ua/ad/loftblog/' ) );  // http://ad.lekua.in.ua/loftblog/
  
 } );
+
+// ---------------------------------------------------------------------------------
+// попытки подключиться к серверу по sftp  не увенчались успехом
+
+// sftp  - требует аутентификации. Без нее могу подключиться к серверу
+gulp.task('ftp', function () {
+	return gulp.src('app/**.*')
+		.pipe(ftp({
+			host: 'lekua.ftp.ukraine.com.ua',
+			user: 'lekua_ftp',
+			pass: '*********',
+			remotePath: '/lekua.in.ua/ad/loftblog'
+		}))
+		.pipe(gutil.noop());
+});

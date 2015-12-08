@@ -1,0 +1,7 @@
+node_modules
+bower_components
+loft_project.sublime-workspace
+sublime-gulp.log
+.sublime-gulp.cache
+
+
